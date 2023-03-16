@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.title {
+  padding: 0.5rem 0 0.8rem 0;
+}
+
+.putCash {
+  padding-left: 2rem;
+}
+
+.tip {
+  height: 1rem;
+}
+
+.content {
+  font-size: 2rem;
+}
+
+.yuan{
+  
+}
